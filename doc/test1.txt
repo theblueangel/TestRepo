@@ -1,3 +1,4 @@
+issue1 closed
 issue1 reopen
 issue1 solved 
 123
