@@ -1,3 +1,4 @@
+master opened
 some change
 issue1 solved 
 1234
