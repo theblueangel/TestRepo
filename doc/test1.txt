@@ -1,3 +1,4 @@
+master closed
 master opened
 some change
 issue1 solved 
