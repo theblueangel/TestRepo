@@ -11,3 +11,5 @@ commit from 2
 commit from 2 again
 
 now add something after rebase
+add 1
+
