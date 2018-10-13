@@ -20,7 +20,6 @@ add 5
 add 6
 add 7
 add 8
-2: add 1
 2: add 2
 2: add 3
 2: add 4
@@ -29,3 +28,4 @@ add 8
 2: add 7
 2: add 8
 2: add 9
+2: add 10
