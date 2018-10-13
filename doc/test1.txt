@@ -9,3 +9,5 @@ issue1 solved
 434334
 commit from 2
 commit from 2 again
+
+now add something after rebase
