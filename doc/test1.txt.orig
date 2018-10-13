@@ -6,8 +6,8 @@ issue1 solved
 1234
 111111
 444444444
-<<<<<<< HEAD
 434334
+<<<<<<< HEAD
 commit from 2
 commit from 2 again
 
@@ -19,11 +19,18 @@ add 4
 add 5
 add 6
 add 7
+<<<<<<< HEAD
+add 8
+=======
+add 100
 2: add 1
+>>>>>>> add 100
 2: add 2
 2: add 3
 2: add 4
 2: add 5
-=======
-
->>>>>>> 4444444
+2: add 6
+2: add 7
+2: add 8
+2: add 9
+2: add 10

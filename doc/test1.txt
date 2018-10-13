@@ -19,7 +19,12 @@ add 4
 add 5
 add 6
 add 7
+<<<<<<< HEAD
 add 8
+=======
+add 100
+2: add 1
+>>>>>>> add 100
 2: add 2
 2: add 3
 2: add 4
